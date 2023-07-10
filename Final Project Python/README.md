@@ -1,5 +1,5 @@
 # Daytime Data Checker
-## Video Demo:  <URL https://youtu.be/t9yhZWbAOCo>
+## Video Demo:  <https://youtu.be/t9yhZWbAOCo>
 ## Description:
 
 **Introduction**
